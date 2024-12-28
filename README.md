@@ -1,4 +1,3 @@
-# 💫 About Me:
 I'm Vibhuti Sharma
 
 
