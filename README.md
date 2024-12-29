@@ -1,23 +1,39 @@
-I'm Vibhuti Sharma
+<div align="center">
+  <img height="500" src="https://imgs.search.brave.com/_nhkwuFTtdy0uqqKY0ANU4ZdVxMxDfw3Jhg49jGw4fI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhZMkp2ZG5aNGMz/aGhhemd3ZDNObVoz/WTRZWEJpYVhBeE9X/MW9ibnB5YUdaeE5I/a3hNVFJzYlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYWRlS1N3c0pJ/ZXN3dy8yMDAuZ2lm.gif"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vibhuti.) 
+<p align="left">I'm Vibhuti Sharma😎</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CoderVibhuti&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CoderVibhuti&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderVibhuti&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CoderVibhuti&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=CoderVibhuti&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img height="520" src="https://imgs.search.brave.com/9t9872jmOz-ruJtDCtlzskkKkK_S9fhS-sI8cXredVw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZGFyay1h/bmltZS1hcmstaXgt/Y3pkN3g5djJrNGtm/cWU1ZC5naWY.gif"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CoderVibhuti.CoderVibhuti&"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/CoderVibhuti/CoderVibhuti/output/snake.svg" alt="Snake animation" />
+
+###
